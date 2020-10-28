@@ -1,0 +1,10 @@
+name: "hw8-website"
+navbar:
+  left:
+    - text: "Deseret Viz Original"
+      href: Deseret Viz Orignal.html
+    - text: "New Viz"
+      href: New Viz.html
+output:
+  html_document:
+    theme: cosmo

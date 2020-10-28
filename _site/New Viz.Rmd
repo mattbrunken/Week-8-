@@ -1,0 +1,17 @@
+---
+title: "New Viz"
+output: html_document
+---
+
+```{r echo=FALSE}
+library(knitr)
+#library(ggplot2)
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir= normalizePath('..'))
+knitr::opts_chunk$set(error = FALSE)
+```
+
+
+
+![](/Users/Matt/Documents/School/stat495R/week 8/site/deseret viz new (2).jpg)
+
